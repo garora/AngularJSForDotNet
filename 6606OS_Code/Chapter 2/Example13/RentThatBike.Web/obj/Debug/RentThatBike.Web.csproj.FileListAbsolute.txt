@@ -1,0 +1,5 @@
+\\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example13\RentThatBike.Web\bin\RentThatBike.Web.dll.config
+\\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example13\RentThatBike.Web\bin\RentThatBike.Web.dll
+\\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example13\RentThatBike.Web\bin\RentThatBike.Web.pdb
+\\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example13\RentThatBike.Web\obj\Debug\RentThatBike.Web.dll
+\\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example13\RentThatBike.Web\obj\Debug\RentThatBike.Web.pdb
