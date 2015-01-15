@@ -1,0 +1,36 @@
+/* Put your css in here */
+
+.myTabs {
+  list-style: none;
+  position: relative;
+  text-align: left;
+  float: left;
+  border-bottom: 1px solid lightgrey;
+  width: 100%;
+  padding-left: 0; }
+  .myTabs li {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 15px 8px 15px 50px;
+    font-weight: 0;
+    float: left;
+    display: block;
+    padding: 10px;
+    background-color: white;
+    border-bottom: 1px solid lightgrey;
+    margin: 0;
+    margin-bottom: -1px; }
+    .myTabs li:hover {
+      background-color: lightgrey;
+      cursor: pointer; }
+  .myTabs li.active {
+    display: block;
+    padding: 10px;
+    background-color: white;
+    border-bottom: 0px solid lightgrey;
+    border-top: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    border-right: 1px solid lightgrey; }
+    .dsTabs li.active:hover {
+      background-color: white;
+      cursor: pointer; }

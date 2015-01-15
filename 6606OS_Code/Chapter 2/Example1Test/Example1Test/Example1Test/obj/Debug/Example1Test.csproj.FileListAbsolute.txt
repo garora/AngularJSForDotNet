@@ -1,0 +1,6 @@
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1Test\Example1Test\Example1Test\bin\Example1Test.dll.config
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1Test\Example1Test\Example1Test\bin\Example1Test.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1Test\Example1Test\Example1Test\bin\Example1Test.pdb
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1Test\Example1Test\Example1Test\obj\Debug\Example1Test.csprojResolveAssemblyReference.cache
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1Test\Example1Test\Example1Test\obj\Debug\Example1Test.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1Test\Example1Test\Example1Test\obj\Debug\Example1Test.pdb
