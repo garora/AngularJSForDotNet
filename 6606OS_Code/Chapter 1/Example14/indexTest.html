@@ -10,8 +10,9 @@
   <div ng-repeat="currentPlayer in players">
     <!-- <my-player current-player-test="currentPlayer"/> -->
 	<!-- <my-player player-data="currentPlayer"/> -->
-	<my-player data-player="currentPlayer"/>
+	<!-- <my-player data-player="currentPlayer"/> -->
 	<!-- <my-player data="currentPlayer"/> -->
+	<my-player player="currentPlayer"/>
   </div>
   <script>
     (function() {
@@ -41,8 +42,9 @@
           scope: {
             //player: '=currentPlayerTest'
 			//player: '=playerData'
-			player: '=dataPlayer'
+			//player: '=dataPlayer' //Don't do this, data- is stripped per angular docs http://stackoverflow.com/questions/27966761/what-is-wrong-with-this-directive-scope
 			//player: '=data'
+			player: '='
           }
         };
       });
