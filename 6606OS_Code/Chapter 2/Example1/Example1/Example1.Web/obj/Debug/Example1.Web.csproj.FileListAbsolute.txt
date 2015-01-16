@@ -17,3 +17,22 @@
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example1\Example1\Example1.Web\obj\Debug\Example1.Web.csprojResolveAssemblyReference.cache
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example1\Example1\Example1.Web\obj\Debug\Example1.Web.dll
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example1\Example1\Example1.Web\obj\Debug\Example1.Web.pdb
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\Example1.Web.dll.config
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\Example1.Web.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\Example1.Web.pdb
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.Common.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.Interfaces.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.OrmLite.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.Redis.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.ServiceInterface.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.Text.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.xml
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.Common.xml
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.Interfaces.xml
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.Redis.xml
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\bin\ServiceStack.Text.xml
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\obj\Debug\Example1.Web.csprojResolveAssemblyReference.cache
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\obj\Debug\Example1.Web.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example1\Example1\Example1.Web\obj\Debug\Example1.Web.pdb

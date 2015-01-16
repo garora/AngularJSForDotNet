@@ -4,3 +4,9 @@
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example7\Example7.Web\obj\Debug\Example7.Web.csprojResolveAssemblyReference.cache
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example7\Example7.Web\obj\Debug\Example2.Web.dll
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example7\Example7.Web\obj\Debug\Example2.Web.pdb
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example7\Example7.Web\bin\Example2.Web.dll.config
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example7\Example7.Web\bin\Example2.Web.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example7\Example7.Web\bin\Example2.Web.pdb
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example7\Example7.Web\obj\Debug\Example7.Web.csprojResolveAssemblyReference.cache
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example7\Example7.Web\obj\Debug\Example2.Web.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example7\Example7.Web\obj\Debug\Example2.Web.pdb

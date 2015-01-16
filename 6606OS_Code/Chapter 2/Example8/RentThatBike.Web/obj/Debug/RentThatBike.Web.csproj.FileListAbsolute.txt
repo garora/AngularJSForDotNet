@@ -3,3 +3,9 @@
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example8\RentThatBike.Web\bin\RentThatBike.Web.pdb
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example8\RentThatBike.Web\obj\Debug\RentThatBike.Web.dll
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter02\Code\Code\Example8\RentThatBike.Web\obj\Debug\RentThatBike.Web.pdb
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example8\RentThatBike.Web\bin\RentThatBike.Web.dll.config
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example8\RentThatBike.Web\bin\RentThatBike.Web.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example8\RentThatBike.Web\bin\RentThatBike.Web.pdb
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example8\RentThatBike.Web\obj\Debug\RentThatBike.Web.csprojResolveAssemblyReference.cache
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example8\RentThatBike.Web\obj\Debug\RentThatBike.Web.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 2\Example8\RentThatBike.Web\obj\Debug\RentThatBike.Web.pdb
