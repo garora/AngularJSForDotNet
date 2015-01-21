@@ -17,3 +17,22 @@
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter03\Code\Example7\RentThatBike.Web\bin\ServiceStack.Text.xml
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter03\Code\Example7\RentThatBike.Web\obj\Debug\RentThatBike.Web.dll
 \\192.168.0.200\Current-Titles\04_Mini-Micro\6606OS_Learning AngularJS for .Net\Chapter03\Code\Example7\RentThatBike.Web\obj\Debug\RentThatBike.Web.pdb
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\RentThatBike.Web.dll.config
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\RentThatBike.Web.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\RentThatBike.Web.pdb
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.Common.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.Interfaces.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.OrmLite.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.Redis.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.ServiceInterface.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.Text.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.xml
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.Common.xml
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.Interfaces.xml
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.Redis.xml
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\bin\ServiceStack.Text.xml
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\obj\Debug\RentThatBike.Web.csprojResolveAssemblyReference.cache
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\obj\Debug\RentThatBike.Web.dll
+C:\Projects\Testing\Learning AngularJS for .NET Developers\AngularJSForDotNet\6606OS_Code\Chapter 3\Example7\RentThatBike.Web\obj\Debug\RentThatBike.Web.pdb
