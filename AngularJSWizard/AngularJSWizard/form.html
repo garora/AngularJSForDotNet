@@ -1,0 +1,37 @@
+<div class="row">
+	<div class="col-sm-8 col-sm-offset-2">
+
+		<div id="form-container">
+
+			<div class="page-header text-center">
+				<h2>NTT Wizard Demo</h2>
+
+				<!-- the links to our nested states using relative paths -->
+				<!-- add the active class if the state matches our ui-sref -->
+				<div id="status-buttons" class="text-center">
+					<a ui-sref-active="active" ui-sref=".project"><span>1</span> Project</a>
+					<a ui-sref-active="active" ui-sref=".interest"><span>2</span> Area of Interest</a>
+					<a ui-sref-active="active" ui-sref=".location"><span>3</span> Soils / Location</a>
+					<a ui-sref-active="active" ui-sref=".management"><span>4</span> Management</a>
+					<a ui-sref-active="active" ui-sref=".run"><span>5</span> Define Run</a>
+					<a ui-sref-active="active" ui-sref=".reports"><span>6</span> Reports</a>
+				</div>
+			</div>
+
+			<!--<button ng-disabled="true">Disabled Button</button>-->
+
+			<!-- use ng-submit to catch the form submission and use our Angular function -->
+			<form id="signup-form" ng-submit="processForm()">
+				<!-- our nested state views will be injected here -->
+				<div id="form-views" ui-view></div>
+			</form>
+
+		</div>
+
+		<!-- show our formData as it is being typed -->
+		<pre>
+    Form Data: {{ formData }}
+  </pre>
+
+	</div>
+</div>
